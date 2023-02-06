@@ -1,0 +1,34 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "title": "New Zeeland",
+      "population": "5 000 000",
+      "img": ""
+    },
+    {
+      "id": 2,
+      "title": "Japan",
+      "population": "125 000 000",
+      "img": ""
+    },
+    {
+      "id": 3,
+      "title": "South Korea",
+      "population": "52 000 000",
+      "img": ""
+    },
+    {
+      "id": 4,
+      "title": "Canada",
+      "population": "38 000 000",
+      "img": ""
+    },
+    {
+      "id": 5,
+      "title": "Ukrainer",
+      "population": "48000000",
+      "img": "dsf"
+    }
+  ]
+}
